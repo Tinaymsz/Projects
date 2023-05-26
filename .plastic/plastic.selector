@@ -1,0 +1,4 @@
+repository "Glass and Rain@easy-to-deal-with@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
